@@ -1,0 +1,159 @@
+Question 1: Which component converts your C++ code into a program that the computer can understand?
+Choices:
+A) Linker
+B) Compiler
+C) Text Editor
+D) Web Browser
+Correct Answer: B) Compiler
+
+Question 2: Which data type is used to store a true or false value in C++?
+Choices:
+A) int
+B) char
+C) bool
+D) double
+Correct Answer: C) bool
+
+Question 3: What is the first index number used in a C++ array?
+Choices:
+A) -1
+B) 1
+C) 0
+D) 2
+Correct Answer: C) 0
+
+Question 4: Which code line is used at the top of a program to allow input and output?
+Choices:
+A) #include 
+B) #include 
+C) #include 
+D) #include 
+Correct Answer: A) #include
+
+Question 5: What punctuation mark must be placed at the end of most lines of code in C++?
+Choices:
+A) Period (.)
+B) Semicolon (;)
+C) Colon (:)
+D) Question mark (?)
+Correct Answer: B) Semicolon (;)
+
+Question 6: Which object is used to print text out to the screen in C++?
+Choices:
+A) cin
+B) cout
+C) print
+D) screen
+Correct Answer: B) cout
+
+Question 7: Which object is used to read input from the keyboard in C++?
+Choices:
+A) cin
+B) cout
+C) read
+D) keyboard
+Correct Answer: A) cin
+
+Question 8: What is a variable that holds a memory address called?
+Choices:
+A) Integer
+B) Array
+C) Pointer
+D) Float
+Correct Answer: C) Pointer
+
+Question 9: Which keyword makes a variable a constant, meaning its value cannot be changed?
+Choices:
+A) static
+B) main
+C) const
+D) public
+Correct Answer: C) const
+
+Question 10: Which loop structure will always run its code at least one time?
+Choices:
+A) for loop
+B) while loop
+C) do-while loop
+D) switch loop
+Correct Answer: C) do-while loop
+
+Question 11: What function must every C++ program have to start running?
+Choices:
+A) start()
+B) main()
+C) run()
+D) play()
+Correct Answer: B) main()
+
+Question 12: Which symbols are used to start a single-line comment in C++?
+Choices:
+A) #
+B) //
+C) /*
+D) --
+Correct Answer: B) //
+
+Question 13: What special function is automatically called when an object is created?
+Choices:
+A) Constructor
+B) Destructor
+C) Main function
+D) Void function
+Correct Answer: A) Constructor
+
+Question 14: What keyword is used to create a new blueprint or class in C++?
+Choices:
+A) object
+B) structure
+C) class
+D) function
+Correct Answer: C) class
+
+Question 15: Which access modifier makes class variables completely hidden from the outside world?
+Choices:
+A) public
+B) private
+C) shared
+D) open
+Correct Answer: B) private
+
+Question 16: What is the correct way to increase the value of an integer variable named x by exactly 1?
+Choices:
+A) x++
+B) x + 1
+C) x = 1
+D) ++
+Correct Answer: A) x++
+
+Question 17: Which operator is used to add two numbers together in C++?
+Choices:
+A) -
+B) *
+C) +
+D) /
+Correct Answer: C) +
+
+Question 18: What is the file extension typically used for a C++ source code file?
+Choices:
+A) .txt
+B) .exe
+C) .cpp
+D) .html
+Correct Answer: C) .cpp
+
+Question 19: Which statement is used to make a choice between two options in C++?
+Choices:
+A) loop statement
+B) if-else statement
+C) return statement
+D) include statement
+Correct Answer: B) if-else statement
+
+Question 20: What keyword is used inside a function to send a value back to the code that called it?
+Choices:
+A) send
+B) give
+C) return
+D) back
+Correct Answer: C) return

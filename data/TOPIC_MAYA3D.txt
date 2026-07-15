@@ -1,0 +1,159 @@
+Question 1: What is Autodesk Maya primarily used for?
+Choices:
+A) Video editing
+B) 3D modeling and animation
+C) Making audio beats
+D) Text editing
+Correct Answer: B) 3D modeling and animation
+
+Question 2: Which keyboard shortcut is used to rotate an object in Maya?
+Choices:
+A) W
+B) E
+C) R
+D) Q
+Correct Answer: B) E
+
+Question 3: Which keyboard shortcut is used to move/translate an object in Maya?
+Choices:
+A) W
+B) E
+C) R
+D) Q
+Correct Answer: A) W
+
+Question 4: Which keyboard shortcut is used to scale an object up or down?
+Choices:
+A) W
+B) E
+C) R
+D) Q
+Correct Answer: C) R
+
+Question 5: What are the three basic 3D axes used in Maya's Viewport?
+Choices:
+A) A, B, C
+B) X, Y, Z
+C) H, V, D
+D) 1, 2, 3
+Correct Answer: B) X, Y, Z
+
+Question 6: Which mouse button do you hold along with the Alt key to rotate or tumble your camera view?
+Choices:
+A) Left Mouse Button
+B) Middle Mouse Button
+C) Right Mouse Button
+D) Scroll Wheel Click
+Correct Answer: A) Left Mouse Button
+
+Question 7: What does holding the Alt key and dragging the Middle Mouse Button do in the viewport?
+Choices:
+A) Zooms the camera in and out
+B) Rotates the camera view
+C) Pans the camera view up, down, left, or right
+D) Deletes the selected object
+Correct Answer: C) Pans the camera view up, down, left, or right
+
+Question 8: What are the three basic component modes used to edit a polygon mesh?
+Choices:
+A) Layer, Group, Folder
+B) Vertex, Edge, Face
+C) Color, Texture, Light
+D) Bone, Joint, Skin
+Correct Answer: B) Vertex, Edge, Face
+
+Question 9: What happens when you press the 3 key on your keyboard while a model is selected?
+Choices:
+A) The object is deleted
+B) It turns on smooth mesh preview mode
+C) It hides the object from view
+D) It starts a camera render
+Correct Answer: B) It turns on smooth mesh preview mode
+
+Question 10: Which key returns a selected object back to its default rough, blocky polygon appearance?
+Choices:
+A) 1
+B) 3
+C) 5
+D) 7
+Correct Answer: A) 1
+
+Question 11: What is the main purpose of the Outliner window in Maya?
+Choices:
+A) To paint textures on a model
+B) To view a hierarchical list of all objects in the scene
+C) To edit the animation timeline frame rate
+D) To adjust rendering resolution
+Correct Answer: B) To view a hierarchical list of all objects in the scene
+
+Question 12: Which window is used to change specific numbers for an object's position, rotation, and scale?
+Choices:
+A) Attribute Editor
+B) Channel Box
+C) Hypershade
+D) Graph Editor
+Correct Answer: B) Channel Box
+
+Question 13: What does the Extrude tool do in Maya?
+Choices:
+A) Erases the selected model completely
+B) Pulls or pushes a new face, edge, or vertex out from the mesh
+C) Merges two completely different scene files together
+D) Changes the color of the camera background
+Correct Answer: B) Pulls or pushes a new face, edge, or vertex out from the mesh
+
+Question 14: What is the primary tool used to create, organize, and assign materials or textures to objects?
+Choices:
+A) Outliner
+B) Hypershade
+C) Graph Editor
+D) Time Slider
+Correct Answer: B) Hypershade
+
+Question 15: Which view is the main 3D working area where you can look around your model from any angle?
+Choices:
+A) Front View
+B) Side View
+C) Top View
+D) Perspective View
+Correct Answer: D) Perspective View
+
+Question 16: What is the default background color grid area called where you build your objects?
+Choices:
+A) The Canvas
+B) The Viewport
+C) The Artboard
+D) The Timeline
+Correct Answer: B) The Viewport
+
+Question 17: Which key on the keyboard acts as the default shortcut to set an animation keyframe?
+Choices:
+A) K
+B) S
+C) Spacebar
+D) Enter
+Correct Answer: B) S
+
+Question 18: What is the process of building a skeleton structure inside a 3D mesh so it can be animated called?
+Choices:
+A) Texturing
+B) Rigging
+C) Modeling
+D) Rendering
+Correct Answer: B) Rigging
+
+Question 19: What is the final step called where Maya calculates light, shadow, and materials to generate a 2D image or video clip?
+Choices:
+A) Modeling
+B) Rigging
+C) Rendering
+D) Sculpting
+Correct Answer: C) Rendering
+
+Question 20: Which primitive shape is a 3D mathematical term for a standard round ball?
+Choices:
+A) Cube
+B) Cylinder
+C) Sphere
+D) Cone
+Correct Answer: C) Sphere
