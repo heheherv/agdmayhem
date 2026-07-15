@@ -1,0 +1,219 @@
+FEU Alabang
+
+1. FEU stands for?  
+a. Far Eastern University  
+b. First Education University  
+c. Filipino Education Union  
+d. Future Excellence University  
+Correct answer: a. Far Eastern University  
+
+2. Where is FEU Alabang located?  
+a. Quezon City  
+b. Muntinlupa City  
+c. Manila  
+d. Makati  
+Correct answer: b. Muntinlupa City  
+
+3. What is FEU’s mascot?  
+a. Eagle  
+b. Tiger  
+c. Tamaraw  
+d. Lion  
+Correct answer: c. Tamaraw  
+
+4. When was FEU Alabang established?  
+a. 2014  
+b. 2015  
+c. 2016  
+d. 2017  
+Correct answer: c. 2016  
+
+5. What are FEU’s official colors?  
+a. Blue and White  
+b. Green and Gold  
+c. Red and Black  
+d. Yellow and Blue  
+Correct answer: b. Green and Gold  
+
+6. FEU Alabang is part of which university system?  
+a. Ateneo System  
+b. FEU System  
+c. La Salle System  
+d. UST System  
+Correct answer: b. FEU System  
+
+7. Which FEU campus is the oldest?  
+a. FEU Diliman  
+b. FEU Manila  
+c. FEU Alabang  
+d. FEU Makati  
+Correct answer: b. FEU Manila  
+
+8. What is the FEU Alabang motto?
+a. Fortitude, Excellence, Uprightness
+b. Knowledge is Power
+c. Learning for Life
+d. Wisdom and Honor
+Correct answer: a. Fortitude, Excellence, Uprightness
+
+9. FEU Alabang offers courses in which field?  
+a. Engineering  
+b. Medicine  
+c. Law  
+d. Agriculture  
+Correct answer: a. Engineering  
+
+10. What object is not allowed during Wednesday?  
+a. Paper  
+b. Plastics  
+c. Glass  
+d. Metal  
+Correct answer: b. Plastics  
+
+
+
+Java (Programming)
+
+What is the file extension for a Java source code file?
+a. .txt
+b. .java
+c. .exe
+d. .doc
+Correct answer: b. .java
+
+Which keyword is used to start a Java program?
+a. begin
+b. start
+c. main
+d. run
+Correct answer: c. main
+
+Which symbol is used to end a line of code in Java?
+a. .
+b. ;
+c. :
+d. ,
+Correct answer: b. ;
+
+Which keyword is used to create a new object?
+a. make
+b. new
+c. build
+d. create
+Correct answer: b. new
+
+What is the default value of an integer in Java?
+a. 1
+b. 0
+c. null
+d. -1
+Correct answer: b. 0
+
+Which keyword is used to inherit another class?
+a. extends
+b. inherits
+c. super
+d. copy
+Correct answer: a. extends
+
+What does JVM stand for?
+a. Java Virtual Machine
+b. Java Version Manager
+c. Java Value Model
+d. Java Variable Method
+Correct answer: a. Java Virtual Machine
+
+Which package is always available in Java?
+a. java.io
+b. java.util
+c. java.lang
+d. java.math
+Correct answer: c. java.lang
+
+Which keyword makes a variable constant?
+a. static
+b. final
+c. fixed
+d. lock
+Correct answer: b. final
+
+Which company created Java?
+a. Microsoft
+b. Sun Microsystems
+c. Apple
+d. Google
+Correct answer: b. Sun Microsystems
+
+
+
+Gaming
+
+1. Who created the PlayStation console?  
+a. Microsoft  
+b. Sony  
+c. Nintendo  
+d. Sega  
+Correct answer: b. Sony  
+
+2. In Minecraft, what do you need to craft a torch?  
+a. Stick + Coal  
+b. Stick + Iron  
+c. Stick + Stone  
+d. Stick + Gold  
+Correct answer: a. Stick + Coal  
+
+3. Who is Mario’s brother?  
+a. Wario  
+b. Luigi  
+c. Bowser  
+d. Yoshi  
+Correct answer: b. Luigi  
+
+4. Which game uses the phrase “Finish Him”?  
+a. Street Fighter  
+b. Tekken  
+c. Mortal Kombat  
+d. King of Fighters  
+Correct answer: c. Mortal Kombat  
+
+5. What is the best-selling video game ever?  
+a. Tetris  
+b. Minecraft  
+c. GTA V  
+d. Super Mario Bros  
+Correct answer: b. Minecraft  
+
+6. Pikachu is what type of Pokémon?  
+a. Fire  
+b. Electric  
+c. Water  
+d. Grass  
+Correct answer: b. Electric  
+
+7. When was the first Xbox released?  
+a. 1999  
+b. 2000  
+c. 2001  
+d. 2002  
+Correct answer: c. 2001  
+
+8. Which console introduced motion-sensing controllers?  
+a. PlayStation 2  
+b. Xbox 360  
+c. Nintendo Wii  
+d. Sega Dreamcast  
+Correct answer: c. Nintendo Wii  
+
+9. In Among Us, who eliminates crewmates?  
+a. Leader  
+b. Impostor  
+c. Captain  
+d. Spy  
+Correct answer: b. Impostor  
+
+10. What is Fortnite’s currency called?  
+a. Coins  
+b. Gems  
+c. V-Bucks  
+d. Stars  
+Correct answer: c. V-Bucks

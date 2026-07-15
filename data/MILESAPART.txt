@@ -1,0 +1,349 @@
+1. What keyword is used to display output in Python
+A) display()
+B) output()
+C) print()
+D) show()
+Correct Answer: C) print()
+
+2. What function is used to get input from the user in Python? 
+A) scan()
+B) input() 
+C) read() 
+D) get() 
+Correct Answer: B) input() 
+
+3.Which symbol is used to assign a value to a variable in Python? 
+A) == 
+B) = 
+C) := 
+D) -> 
+Correct Answer: B) =
+
+4. Is Python case-sensitive? 
+A) Yes
+B) No
+C) Sometimes
+D) Only for variables
+Correct Answer: A) Yes
+
+5. Which data type is used for whole numbers? 
+A) float
+B) string
+C) int
+D) bool
+Correct Answer: C) int
+
+6. Which data type is used for decimal numbers? 
+A) int
+B) float
+C) bool
+D) list
+Correct Answer: B) float
+
+7. Which data type is used for True or False values? 
+A) string
+B) bool
+C) int
+D) float
+Correct Answer: B) bool
+
+8. What symbol is used for single-line comments in Python? 
+A) //
+B) /* */
+C) #
+D) - -
+Correct Answer: C) #
+
+9. Which keyword is used to make a decision in Python? 
+A) if
+B) when
+C) switch
+D) loop
+Correct Answer: A) if
+
+10. Which keyword is used if the first condition is false? 
+A) else
+B) then
+C) next
+D) stop
+Correct Answer: A) else
+
+11. Which keyword is used when checking multiple conditions? 
+A) repeat
+B) elif
+C) else
+D) case
+Correct Answer: B) elif
+
+12. Which loop is commonly used to repeat a block of code a specific number of times? 
+A) while
+B) repeat
+C) for
+D) do-while
+Correct Answer: C) for
+
+13. Which loop repeats while a condition is true? 
+A) for
+B) while
+C) repeat
+D) foreach
+Correct Answer: B) while
+
+14. What keyword is used to stop a loop immediately? 
+A) stop
+B) exit
+C) break
+D) return 
+Correct Answer: C) break
+
+15. What data structure stores multiple items inside square brackets []? 
+A) Tuple
+B) Dictionary
+C) List
+D) Set
+Correct Answer: C) List
+
+16. Which data structure stores key-value pairs? 
+A) List
+B) Tuple
+C) Dictionary
+D) String 
+Correct Answer: C) Dictionary
+
+17. Which data structure uses parentheses ()? 
+A) List
+B) Tuple
+C) Dictionary
+D) Set 
+Correct Answer: B) Tuple
+
+18. Which function returns the number of items in a list? 
+A) count() 
+B) size() 
+C) len() 
+D) total() 
+Correct Answer: C) len()
+
+19. What is the output of print("Hello" + " World")? 
+A) HelloWorld
+B) Hello World
+C) Hello + World
+D) Error
+Correct Answer: B) Hello World
+
+20. What does the != operator mean? 
+A) Equal to 
+B) Greater than 
+C) Not equal to 
+D) Less than 
+Correct Answer: C) Not equal to
+
+21. What is the correct file extension for a Python file? 
+A) .java
+B) .cpp
+C) .py
+D) .txt
+Correct Answer: C) .py
+
+22. Which of the following is a valid Python variable name? 
+A) 2name
+B) my-name
+C) my_name
+D) my name
+Correct Answer: C) my_name
+
+23. Why is proper indentation important in Python? 
+A) It changes the font. 
+B) It defines code blocks. 
+C) It makes the code colorful. 
+D) It increases program speed. 
+Correct Answer: B) It defines code blocks.
+
+24. Which function displays the data type of a variable? 
+A) type() 
+B) class() 
+C) data()  
+D) var() 
+Correct Answer: A) type()
+
+25. What is the output of print(10 % 3)? 
+A) 3
+B) 1
+C) 0
+D) 10
+Correct Answer: B) 1
+
+26. Which symbol is used to end a statement in C++?
+A) :
+B) ;
+C) .
+D) ,
+Correct Answer: B) ;
+
+27. Which keyword is used to define a class in Java?
+A) object
+B) class
+C) define
+D) new
+Correct Answer: B) class
+
+28. Which keyword is used to define a class in C++?
+A) object
+B) class
+C) struct
+D) new
+Correct Answer: B) class
+
+29. Which operator is used for addition in both Java and C++?
+A) -
+B) +
+C) *
+D) /
+Correct Answer: B) +
+
+30. Which keyword is used to declare a constant in C++?
+A) const
+B) final
+C) static
+D) constant
+Correct Answer: A) const
+
+31. Which keyword is used to declare a constant in Java?
+A) const
+B) final
+C) static
+D) constant
+Correct Answer: B) final
+
+32. Which data type is used to store true or false values in Java?
+A) int
+B) boolean
+C) char
+D) String
+Correct Answer: B) boolean
+
+33. Which data type is used to store true or false values in C++?
+A) int
+B) bool
+C) char
+D) string
+Correct Answer: B) bool
+
+34. Which keyword is used to create an object in Java?
+A) make
+B) new
+C) create
+D) object
+Correct Answer: B) new
+
+35. Which keyword is used to create an object in C++?
+A) make
+B) new
+C) create
+D) object
+Correct Answer: B) new
+
+36. Which symbol is used for single-line comments in Java?
+A) //
+B) #
+C) <!--
+D) **
+Correct Answer: A) //
+
+37. Which symbol is used for single-line comments in C++?
+A) //
+B) #
+C) <!--
+D) **
+Correct Answer: A) //
+
+38. Which keyword is used to inherit a class in Java?
+A) inherit
+B) extends
+C) implements
+D) super
+Correct Answer: B) extends
+
+39. Which keyword is used to inherit a class in C++?
+A) inherit
+B) :
+C) extends
+D) super
+Correct Answer: B) :
+
+40. Which keyword is used to define a method in Java?
+A) function
+B) def
+C) void
+D) method
+Correct Answer: C) void
+
+41. Which keyword is used to define a function in C++?
+A) function
+B) def
+C) void
+D) method
+Correct Answer: C) void
+
+42. Which operator is used for division in both Java and C++?
+A) /
+B) ÷
+C) %
+D) //
+Correct Answer: A) /
+
+43. Which keyword is used to check conditions in Java?
+A) if
+B) check
+C) condition
+D) test
+Correct Answer: A) if
+
+44. Which keyword is used to check conditions in C++?
+A) if
+B) check
+C) condition
+D) test
+Correct Answer: A) if
+
+45. Which keyword is used to handle exceptions in Java?
+A) try
+B) catch
+C) throw
+D) All of the above
+Correct Answer: D) All of the above
+
+46. Which keyword is used to handle exceptions in C++?
+A) try
+B) catch
+C) throw
+D) All of the above
+Correct Answer: D) All of the above
+
+47. Which keyword is used to return a value from a method in Java?
+A) give
+B) return
+C) output
+D) result
+Correct Answer: B) return
+
+48. Which keyword is used to return a value from a function in C++?
+A) give
+B) return
+C) output
+D) result
+Correct Answer: B) return
+
+49. Which keyword is used to stop program execution immediately in Java?
+A) stop
+B) exit
+C) break
+D) System.exit()
+Correct Answer: D) System.exit()
+
+50. Which keyword is used to define a loop that runs a fixed number of times?
+A) repeat
+B) for
+C) while
+D) loop
+Correct Answer: B) for
